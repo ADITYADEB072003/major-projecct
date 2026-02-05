@@ -1,0 +1,16 @@
+MONGO_URI=mongodb+srv://adityadeb:eCunNWFwpyZpHdul@testid.hyqwjw5.mongodb.net/?retryWrites=true&w=majority&appName=testid
+SECRET_KEY=alkjfklsajfjoiwfjekjaklsfdjklasj
+CLOUDINARY_CLOUD_NAME=dh31rszx0
+CLOUDINARY_API_KEY=175166715659653
+CLOUDINARY_API_SECRET=Bv0ltbKnoLAtVOADoL8lW-2Fo40
+
+# Admin Panel Credentials
+ADMIN_EMAIL=admin@example.com
+ADMIN_PASSWORD=greatstack123
+
+JWT_SECRET=greatstack
+
+RAZORPAY_KEY_ID = "rzp_test_1O7J6Q7Q7Q7Q7Q"
+RAZORPAY_KEY_SECRET = "afdafdsdfafafsdfafsf"
+CURRENCY = "INR"
+NODE_ENV = "test"

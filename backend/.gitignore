@@ -1,0 +1,9 @@
+# Node dependencies
+node_modules/
+admin/node_modules/
+
+# Environment files / folders
+env/
+
+# Personal or local folders
+personal/
